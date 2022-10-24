@@ -3,7 +3,7 @@ title: "Cara Install Tor Browser di Linux Debian 11 Bullseye"
 date: 2022-08-17
 category: [ Software ]
 tags: [ system ]
-image: /assets/images/tor-browser-linux-debian.png
+image: /assets/images/cara-install-tor-browser-di-linux-debian-11-bullseye.jpg
 ---
 Silahkan buka Terminal dan ketik <i>su</i> (artinya super user), kemudian tekan Enter. Jika ada password juga masukan dan tekan Enter. Kurang lebih tampilannya seperti gambar di bawah.<br/>
 <br/>
