@@ -41,5 +41,21 @@ Sampai disini, Blender 2.79b sudah bisa dijalankan pada Debian 11 Bullseye. Teta
 <br/>
 <h3>Fix icon launcher tidak muncul</h3>
 <br/>
-<a href="https://blog.mohamadrido.com/" style="color:#007bff;">Coming Soon!</a>
+<i  style="color:#999;">Catatan: Pada bagian ini saya lanjutkan di hari kedua, bisa dilihat dari screenshot tanggalnya.</i><br/>
+<br/>
+
+<br/>
+<img class="img-post" src="{{site.baseurl}}/assets/images/install-blender-gnome-software.jpg"><br/>
+<br/>
+
+<br/>
+<img class="img-post" src="{{site.baseurl}}/assets/images/nautilus-root-folder.jpg"><br/>
+<br/>
+
+<br/>
+<img class="img-post" src="{{site.baseurl}}/assets/images/gedit-add-icon-blender.jpg"><br/>
+<br/>
+
+<br/>
+<img class="img-post" src="{{site.baseurl}}/assets/images/icon-launcher-add-to-favorites.jpg"><br/>
 <br/>
