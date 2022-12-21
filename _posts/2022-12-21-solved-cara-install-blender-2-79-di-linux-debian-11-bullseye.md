@@ -55,7 +55,7 @@ Jika belum ada, bisa install dulu dengan ketik <i>apt install nautilus</i>. Sete
 <br/>
 <img class="img-post" src="{{site.baseurl}}/assets/images/nautilus-root-folder.jpg"><br/>
 <br/>
-Setelah TextEditor/gedit terbuka, scroll ke bawah sampai ketemu kode <i style="color:#999;">Exec=env</i> kemudian bawah tambahkan kode <i style="color:#999;">Icon=blender</i> dan klik "Save".
+Setelah TextEditor/gedit terbuka, scroll ke bawah sampai ketemu kode <i style="color:#999;">Exec=env</i> kemudian bawah tambahkan kode <i style="color:#999;">Icon=blender</i> dan klik "Save".<br/>
 <br/>
 <img class="img-post" src="{{site.baseurl}}/assets/images/gedit-add-icon-blender.jpg"><br/>
 <br/>
