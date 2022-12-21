@@ -17,7 +17,8 @@ Buka Terminal dan masuk mode super user/mode root dengan ketik:<br/>
 <i>apt update</i><br/>
 <i>apt install snapd</i><br/>
 <br/>
-Restart komputer dan buka Terminal kemudian ketik:
+Restart komputer dan buka Terminal kemudian ketik:<br/>
+<br/>
 <i>su</i><br/>
 <i>snap install core</i><br/>
 <br/>
