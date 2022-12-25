@@ -73,7 +73,7 @@ Icon di <i style="color:#999;">Activities > Show Applications > Blender</i> bisa
 <br/>
 <img class="img-post" src="{{site.baseurl}}/assets/images/remove-blender-underscore.jpg"><br/>
 <br/>
-Kemudian rename file <i style="color:#999;">blender_blender.dekstop</i> sehingga menjadi <i style="color:#999;">blender.dekstop</i>,
+Kemudian rename file <i style="color:#999;">blender_blender.dekstop</i> sehingga menjadi <i style="color:#999;">blender.dekstop</i><br/>
 <br/>
 <img class="img-post" src="{{site.baseurl}}/assets/images/rename-blender-desktop.jpg"><br/>
 <br/>
