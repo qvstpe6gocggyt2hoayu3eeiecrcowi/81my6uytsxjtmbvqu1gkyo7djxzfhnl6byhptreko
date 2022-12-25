@@ -61,7 +61,7 @@ kemudian bawah tambahkan kode:<br/>
 <br/>
 dan klik "Save".<br/>
 <br/>
-<img class="img-post" src="{{site.baseurl}}/assets/images/gedit-add-icon-blender.jpg"><br/>
+<img class="img-post" src="{{site.baseurl}}/assets/images/snap-icon-blender-gedit.jpg"><br/>
 <br/>
 Sekarang klik <i style="color:#999;">Activities > Show Applications > Blender</i> (scroll ke bawah untuk lihat install terbaru), kemudian klik kanan icon dan pilih "Add to Favorites". Icon tersebut juga muncul pada pop-up ketika klik kanan file dengan ekstensi <i style="color:#999;">.blend</i>, untuk saat ini hanya icon di <i style="color:#999;">Activities > Show Applications > Blender</i> saja yang belum bisa saya tampilkan.<br/>
 <br/>
