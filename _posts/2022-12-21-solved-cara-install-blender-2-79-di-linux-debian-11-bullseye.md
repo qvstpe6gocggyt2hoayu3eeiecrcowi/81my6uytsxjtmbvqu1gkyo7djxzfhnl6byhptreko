@@ -41,13 +41,9 @@ Sampai disini, Blender 2.79b sudah bisa dijalankan pada Debian 11 Bullseye. Teta
 <br/>
 <h3>Fix icon launcher tidak muncul</h3>
 <br/>
-<i style="color:#999;">Catatan: Pada bagian ini saya lanjutkan di hari kedua, bisa dilihat dari screenshot tanggalnya.</i><br/>
+<i style="color:#999;">Catatan: Pada bagian ini saya lanjutkan di hari kedua, bisa dilihat dari screenshot tanggalnya. Dan screenshot dengan tanggal terbaru itu adalah langkah yang sudah saya perbaiki.</i><br/>
 <br/>
-Buka GNOME Software dan install Blender, untuk saat ini yang tampil di perangkat saya adalah versi Blender 2.83.5 atau bisa juga install dari Terminal dengan ketik <i>apt install blender</i> pada super user/mode root. Alasan saya install ini untuk menggunakan icon launchernya saja, karena Blender 2.83.5 tidak bisa dibuka dari perangkat dengan OpenGL 2.1 (versi lama).<br/>
-<br/>
-<img class="img-post" src="{{site.baseurl}}/assets/images/install-blender-gnome-software.jpg"><br/>
-<br/>
-Selanjutnya buka Terminal sebagai super user/mode root, kemudian ketik:<br/>
+Buka Terminal sebagai super user/mode root, kemudian ketik:<br/>
 <br/>
 <i>nautilus</i><br/>
 <br/>
@@ -55,11 +51,19 @@ Jika belum ada, bisa install dulu dengan ketik <i>apt install nautilus</i>. Sete
 <br/>
 <img class="img-post" src="{{site.baseurl}}/assets/images/nautilus-root-folder.jpg"><br/>
 <br/>
-Setelah TextEditor/gedit terbuka, scroll ke bawah sampai ketemu kode <i style="color:#999;">Exec=env</i> kemudian bawah tambahkan kode <i style="color:#999;">Icon=blender</i> dan klik "Save".<br/>
+Setelah TextEditor/gedit terbuka, scroll ke bawah sampai ketemu kode:<br/>
+<br/>
+<i style="color:#999;">Exec=env</i><br/>
+<br/>
+kemudian bawah tambahkan kode:<br/>
+<br/>
+<i style="color:#999;">Icon=/snap/blender/20/icons/256x256/apps/blender.png</i><br/>
+<br/>
+dan klik "Save".<br/>
 <br/>
 <img class="img-post" src="{{site.baseurl}}/assets/images/gedit-add-icon-blender.jpg"><br/>
 <br/>
-Hasilnya bisa dilihat pada menu aplikasi, bisa juga klik kanan icon dan pilih "Add to Favorites". Sebelum itu buka aplikasi dengan klik icon Blender untuk memastikan dulu mana yang versi 2.79 dan mana yang versi 2.83 (versi tidak bisa dibuka).<br/>
+Sekarang klik <i>Activities > Show Applications > Blender</i> (scroll ke bawah untuk lihat install terbaru), kemudian klik kanan icon dan pilih "Add to Favorites". Icon tersebut juga muncul pada pop-up ketika klik kanan file dengan ekstensi <i>.blend</i>, untuk saat ini hanya icon di <i>Activities > Show Applications > Blender</i> saja yang belum bisa saya tampilkan.<br/>
 <br/>
 <img class="img-post" src="{{site.baseurl}}/assets/images/icon-launcher-add-to-favorites.jpg"><br/>
 <br/>
