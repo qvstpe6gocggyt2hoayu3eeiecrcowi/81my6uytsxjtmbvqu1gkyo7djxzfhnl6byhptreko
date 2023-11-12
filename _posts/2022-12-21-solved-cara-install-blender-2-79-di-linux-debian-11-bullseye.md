@@ -32,7 +32,7 @@ Restart komputer, atau bisa ikuti petunjuk dari web resminya <a href="https://sn
 Buka Terminal dan masuk mode super user/mode root dengan ketik:<br/>
 <br/>
 <i style="color:#999;">su</i><br/>
-<i style="color:#999;">snap install blender ---channel=2.79/stable ---classic</i><br/>
+<i style="color:#999;">snap install blender - -channel=2.79/stable - -classic</i><br/>
 <br/>
 <img class="img-post" src="{{site.baseurl}}/assets/images/snap-install-blender-2-79.jpg"><br/>
 <br/>
